@@ -15,4 +15,16 @@
 - [MEAN.JS](https://github.com/meanjs/mean)
 - [Collection of AnyBalance providers](https://github.com/dukei/any-balance-providers)
 - [A sample app that uses webhooks to convert Markdown files to HTML](https://github.com/dropbox/mdwebhook)
-- 
+ 
+### Technologies:
+
+- [RuboCop](https://github.com/rubocop-hq/rubocop)
+- [CoffeeScript](https://github.com/jashkenas/coffeescript)
+- [Go](https://github.com/golang/go)
+- [Kemal](https://github.com/kemalcr/kemal)
+- [Crystal](https://github.com/crystal-lang/crystal)
+- [Sails](https://github.com/balderdashy/sails)
+- [Middleman](https://github.com/middleman/middleman)
+- [Nim](https://github.com/nim-lang/Nim)
+- [Hanami](https://github.com/hanami/hanami)
+- [React on Rails](https://github.com/shakacode/react_on_rails)
