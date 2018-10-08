@@ -1,2 +1,3 @@
-# useful-repos
-Link on other useful repos
+### Useful repos:
+
+- [A collection of useful YouTube channels for javascript developers and web designers](https://github.com/andrew--r/channels)
